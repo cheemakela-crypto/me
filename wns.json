@@ -1,0 +1,47 @@
+{
+  "active": false,
+  "password_required": true,
+  "users": {
+    "uid_305205": {
+      "name": "vip",
+      "password": "vip"
+    },
+    "uid_111111": {
+      "name": "TestUser1",
+      "password": "test1"
+    },
+    "uid_222222": {
+      "name": "TestUser2",
+      "password": "test2"
+    },
+    "uid_333333": {
+      "name": "TestUser3",
+      "password": "test3"
+    }
+  },
+  "blocked": [
+    "uid_120001",
+    "uid_120002",
+    "uid_120003",
+    "uid_120004",
+    "uid_120005",
+    "uid_120006",
+    "uid_120007",
+    "uid_120008",
+    "uid_120009",
+    "uid_120010",
+    "uid_120011",
+    "uid_120012",
+    "uid_120013",
+    "uid_120014",
+    "uid_120015",
+    "uid_191922",
+    "uid_666777",
+    "uid_389168",
+    "uid_189584",
+    "uid_900001",
+    "uid_900002",
+    "uid_900003",
+    "uid_333333"
+  ]
+}
