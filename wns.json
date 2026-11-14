@@ -1,12 +1,15 @@
 {
-  "active": false,
+  "active": true,
   "password_required": true,
+  "whatsapp_active": true,
+  "floating_text": "🔥Updated🔥",
+  "floating_text_active": false,
   "users": {
     "uid_805151": {
       "name": "vip",
       "password": "vip"
     },
-    "uid_937180": {
+    "uid_339007": {
       "name": "TestUser1",
       "password": "test1"
     },
@@ -17,11 +20,15 @@
     "uid_120003": {
       "name": "TestUser3",
       "password": "test3"
+    },
+    "uid_576844": {
+      "name": "User3",
+      "password": "tist3"
     }
   },
   "blocked": [
     "uid_769564",
-    "uid_120002",
+    "uid_769564",
     "uid_120003",
     "uid_120004",
     "uid_120005",
@@ -35,13 +42,21 @@
     "uid_120013",
     "uid_120014",
     "uid_120015",
-    "uid_191922",
-    "uid_666777",
-    "uid_389168",
+    "uid_846320",
+    "uid_784190",
+    "uid_923656",
     "uid_189584",
+    "uid_102789",
     "uid_900001",
     "uid_900002",
     "uid_900003",
     "uid_333333"
-  ]
+  ],
+  "floating_notice": {
+    "enabled": true,
+    "message": "Extension Updated Get From +923117265125",
+    "position": "bottom-middle",
+    "color": "#00ffaa",
+    "duration": 0
+  }
 }
