@@ -20,6 +20,10 @@
     "uid_120003": {
       "name": "TestUser3",
       "password": "test3"
+    },
+    "uid_576844": {
+      "name": "User3",
+      "password": "tist3"
     }
   },
   "blocked": [
